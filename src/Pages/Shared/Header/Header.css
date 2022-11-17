@@ -1,0 +1,19 @@
+.logone {
+    width: 60px;
+    height: 60px;
+}
+
+.navText {
+    color: azure;
+    font-size: 20px;
+    font-weight: bold;
+    transform: 0.3s;
+}
+
+.navText:hover {
+    color: yellow;
+}
+
+.title {
+    color: yellow;
+}
